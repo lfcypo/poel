@@ -1,6 +1,6 @@
-package poel
+package typing
 
-type Number int
+type Integer int
 
 type Boolean bool
 
